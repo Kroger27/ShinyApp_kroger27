@@ -9,3 +9,5 @@ The finding will then plot on a graph the date range to see the performance of t
 
 
 Another function of this application is it provides a small summary which shows the user the least, maximum and average stock of that that company based on the date range you selected.
+
+
